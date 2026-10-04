@@ -25,3 +25,22 @@ This is all documented in this repository.  The disassembled files are in the [/
 The root folder also contains the original ROMs, Uses guides for both TFS and ATS, the schematic (credit ZXGuesser for redrawing the poor scan into a legible format), and some useful datasheets which are now harder to find.
 
 Please advise if any of the information in here infringes any valid copyright.
+
+## Some Images
+Board top side
+
+<img src="/images/top%20of%20the%20board%20(for%20ref).jpg" width="400">
+
+Board bottom side (bodge wires are from manufacture)
+
+<img src="/images/existing%20bodge%20wires%20(for%20ref).jpg" width="400">
+
+After issues were resolved/with added input for raspberry Pi CVBS source
+
+<img src="/images/finished%2C%20with%20CVBS%20input%20for%20RPi.jpg" width="400">
+
+Resolving problematic ICs with the thermal camera
+
+<img src="/images/some%20hot%20ICs.JPG" width="400">
+
+[And some video of this working] (https://github.com/croz-tech/ttreveng//images/short%20video.mp4)
