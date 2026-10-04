@@ -6,7 +6,7 @@ I've had a teletext adapter for a while (bought cheap on eBay some years ago).  
 
 Powering up the adapter alone with 5V from a bench supply, there was clearly a short to ground.  Limiting the current to 1A and probing around between VCC and GND on all of the 5V logic I was able to find and replace three clearly shorted ICs, including both 2114 SRAMs.  The fun didn't stop there though.  As troubleshooting proceeded I found various dead logic ICs, replacing a total of six ICs.
 
-Unfortunately when connecting to the beeb and running the archived `TFS103` ROM, I found the machine was hanging with after the `TFS` message and not relinquishing control of the onboard RAM to fill the next teletext pages.
+Unfortunately when connecting to the beeb and running the archived `TFS103` ROM, I found the machine was hanging with after the `TFS` message and not relinquishing control of the onboard RAM to fill the next teletext pages.  Unlike the BBC Micro, Master and a lot of other vintage hardware, aside from the schematic there's relatively little information on the teletext adapter peripheral - certainly no extensive service manual. (...until now)
 
 After a lot of scope probing and hard scratching, without much knowledge of what either the teletext adapter circuit or ROM was doing, and being somewhat inspired by [Rob Smallshire's TNMOC talk](https://youtu.be/ubDdlEGjWQc?si=Byj29Ef7eOVyyhH_); I turned to AI for some assistance, initially asking it to study the circuit and disassemble the ROM.
 
