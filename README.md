@@ -43,4 +43,4 @@ Resolving problematic ICs with the thermal camera
 
 <img src="/images/some%20hot%20ICs.JPG" width="400">
 
-[And some video of this working] (https://github.com/croz-tech/ttreveng//images/short%20video.mp4)
+...and there's a short video of the whole thing working in the images folder (which you have to download)
