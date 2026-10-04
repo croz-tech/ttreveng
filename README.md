@@ -43,4 +43,10 @@ Resolving problematic ICs with the thermal camera
 
 <img src="/images/some%20hot%20ICs.JPG" width="400">
 
-...and there's a short video of the whole thing working in the images folder (which you have to download)
+Everything working
+
+<img src="/images/working%20teletext.jpg" width="600">
+
+and what a screen of working teletext looks like (pixel perfect from the RGBtoHDMI)
+
+<img src="/images/capture3.png">
